@@ -1,0 +1,78 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?lines=Olá,+eu+sou+a+Helena+Marcomini;Desenvolvedora+Front-End+com+foco+em+acessibilidade;Bem-vinda+ao+meu+GitHub!)](https://git.io/typing-svg)
+
+<h1 align="center">✨ Helena Marcomini ✨</h1>
+
+<p align="center">
+Desenvolvedora Front-End apaixonada por criar interfaces acessíveis e intuitivas com foco em inclusão digital.
+</p>
+
+---
+
+### 👩‍💻 Sobre mim
+
+Desenvolvedora com experiência em **React**, **Angular**, **JavaScript**, **HTML5** e **CSS3**.  
+Atuei em projetos voltados para **saúde pública**, **agronegócio** e **ecommerce**, sempre com foco em **usabilidade**, **acessibilidade** e **inovação contínua**.
+
+---
+
+### 🛠️ Tecnologias & Ferramentas
+
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+
+### 📈 Estatísticas do GitHub
+
+![Helena's GitHub Stats](https://github-readme-stats.vercel.app/api?username=helenamarcomini22&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=helenamarcomini22&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helenamarcomini22&layout=compact&theme=radical)
+
+---
+
+### 🐍 Snake Game das Contribuições
+
+![snake gif](https://github.com/helenamarcomini22/helenamarcomini22/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+### 🌱 Atualmente aprendendo
+
+- TypeScript
+- UX Writing
+- Gemini Flash avançado
+
+---
+
+### 🤝 Buscando colaboração em
+
+- Projetos de impacto social
+- Interfaces inclusivas
+- Automação para saúde e agro
+
+---
+
+### 🏆 Troféus GitHub
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=helenamarcomini22&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+### 📫 Contato
+
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:helenarfmarcomini@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/helenamarcomini)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/helenamarcomini22)
+
+📍 Araçatuba, São Paulo  
+📱 (18) 99739-4002  
+👀 ![Profile views](https://komarev.com/ghpvc/?username=helenamarcomini22&color=blue)
+
+---
+
+<p align="center">
+💬 “Tecnologia com empatia transforma vidas.”  
+</p>
