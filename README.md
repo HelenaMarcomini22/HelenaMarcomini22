@@ -33,12 +33,6 @@ Atuei em projetos voltados para **saúde pública**, **agronegócio** e **ecomme
 
 ---
 
-### 🐍 Snake Game das Contribuições
-
-![snake gif](https://github.com/helenamarcomini22/helenamarcomini22/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ### 🌱 Atualmente aprendendo
 
 - TypeScript
