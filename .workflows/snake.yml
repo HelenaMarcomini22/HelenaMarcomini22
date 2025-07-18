@@ -19,8 +19,12 @@ jobs:
           outputs: |
             ./github-contribution-grid-snake.svg
 
-      - name: Push to GitHub
+      - name: Commit & Push Snake SVG
         uses: EndBug/add-and-commit@v9
         with:
+          author_name: GitHub Actions
+          author_email: actions@github.com
           message: "Atualiza cobrinha das contribuições 🐍"
           add: "github-contribution-grid-snake.svg"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
